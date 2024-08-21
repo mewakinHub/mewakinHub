@@ -13,8 +13,8 @@ I'm a **Digital Engineering (DE) student** pursuing a Bachelor's degree with a d
   - **Computer Vision (CV):**  
     Led the on-premise deployment of a bag-detection model, including performance testing on Vertex AI to determine optimal device specifications. This project also involved real-time video stream processing and developing business logic add-ons. I created and presented a detailed slide deck to AI lab users and remotely installed the system on the client’s site.  
     **Passion:** Being a CV-related MLE is my true passion, inspired by the K-drama series "Startup." Like Nam Do-san, I am driven to make impactful contributions in the field. I am particularly interested in self-driving cars and how they can revolutionize transportation.
-  - **CI/CD & Clean Code:**  
-    Engaged in CI/CD exercises using Azure DevOps, with a focus on applying **SOLID principles** and **Hexagonal Architecture** to maintain clean, maintainable code.
+  - **CI/CD & Clean Code Exercise:**  
+    Engaged in CI/CD exercises using Azure DevOps to build FasAPI microservice endpoint into GCP artifact registry and deploy as private server into GCP Cloud Run, using docker enterprise version and json key file as credential, with a focus on applying **SOLID principles** and **Hexagonal Architecture** to maintain clean, maintainable code.
   - **ML Intensive Course:**  
     Participating in an intensive machine learning course to deepen my understanding of practical ML applications in the industry.
 
