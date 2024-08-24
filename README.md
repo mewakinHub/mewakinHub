@@ -2,7 +2,7 @@
 
 ![Profile Image](assets/profile1.jpg)
 
-I'm a **Digital Engineering (DE) student** pursuing a Bachelor's degree with a deep passion for **Computer Vision (CV)** and **Machine Learning Engineering (MLE)**. I have aspirations to study abroad and connect with people from various cultures, using English as a global communication tool to bridge gaps and foster innovation. Currently, I'm interning at **Axons** and **CPF** as an MLE and MLOps engineer, where I'm actively contributing to multiple impactful projects.
+I'm a **Digital Engineering (DE) student** pursuing a Bachelor's degree with a deep passion for **Computer Vision (CV)** and **Machine Learning Engineering (MLE)**. I have aspirations to study abroad and connect with people from various cultures, using English as a global communication tool to bridge gaps and foster innovation. Currently, I'm interning at **Axons, CPF** as an MLE and MLOps engineer, where I'm actively contributing to multiple impactful projects.
 
 ## 🚀 What I'm Working On
 
