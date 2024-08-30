@@ -7,16 +7,15 @@ I'm a **Digital Engineering (DE) student** pursuing a Bachelor's degree with a d
 ## 🚀 What I'm Working On
 
 ### 🌟 Internship at Axons
-- **MLOps & Machine Learning Engineering:**
-  - **Pattern Design & Dependency Injection Frameworks:**  
-    Contributed to developing multiple Dependency Injection frameworks with an Adapter Pattern Proof of Concept (POC). I’ve been fortunate to learn from a senior who is highly skilled and passionate about pattern design.
-  - **Computer Vision (CV):**  
-    Led the on-premise deployment of a bag-detection model, including performance testing on Vertex AI to determine optimal device specifications. This project also involved real-time video stream processing and developing business logic add-ons. I created and presented a detailed slide deck to AI lab users and remotely installed the system on the client’s site.  
-    **Passion:** Being a CV-related MLE is my true passion, inspired by the K-drama series "Startup." Like Nam Do-san, I am driven to make impactful contributions in the field. I am particularly interested in self-driving cars and how they can revolutionize transportation.
-  - **CI/CD & Clean Code Exercise:**  
-    Engaged in CI/CD exercises using Azure DevOps to build FasAPI microservice endpoint into GCP artifact registry and deploy as private server into GCP Cloud Run, using docker enterprise version and json key file as credential, with a focus on applying **SOLID principles** and **Hexagonal Architecture** to maintain clean, maintainable code.
-  - **ML Intensive Course:**  
-    Participating in an intensive machine learning course to deepen my understanding of practical ML applications in the industry.
+**Intern - MLOps & Machine Learning Engineering**
+
+- **MLOps - Pattern Design & Integration:** Collaborated with the pattern design team to create a SOLID model training pipeline POC and integrate multiple Dependency Injection frameworks using the Adapter Pattern. Currently focused on assisting with the implementation of a hexagonal architecture pattern to make data science workflows more seamless. This role involves working closely with the team to refine patterns that ensure scalability and maintainability in real-world applications.
+
+- **Computer Vision (CV-MLE) - Edge Device Deployment:** Independently deployed a real-time bag detection model on edge devices and developed an application for counting bags. This application was designed to be user-friendly, allowing customers to run it with a single click or have it start automatically upon booting their PC. Gained hands-on experience with hardware constraints and performance testing. Developed critical insights into customer requirements and real-world system challenges, such as optimizing trackers for conveyor belt systems and effective communication through diagrams and presentations.
+
+- **CI/CD & Azure DevOps:** Built and managed CI/CD pipelines using Azure DevOps. Applied SOLID principles to maintain clean, modular code, while actively engaging in backlog management and repository setup. Focused on optimizing CI/CD processes to meet real-world demands and ensure smooth project integration.
+
+- **ML Intensive Course:** Developed a deep understanding of Data Science (DS) workflows, particularly in DS notebook writing and practical data processing, through an intensive ML course designed to bridge academic knowledge with industry practices.
 
 ### 🎓 University Projects
 - **Thesis on Multiple Sentiment Analysis:**  
