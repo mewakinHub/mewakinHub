@@ -1,6 +1,6 @@
-# 👋 Hi there! Welcome to my GitHub!  🤓👆
+-# 👋 Hi there! Welcome to my GitHub!  🤓👆  
 
-![Profile Image](assets/profile1.jpg)
+![Profile Banner](assets/profile1.jpg)
 
 I’m **Teetawat (Mew) Bussabarati**, a creative technologist and aspiring **Cloud Engineer** with expertise in **Machine Learning Engineering (MLE/MLOps)**, **AR/VR**, and **Automation**. I’m passionate about blending **cutting-edge technology** with **innovative solutions** to create impactful and scalable systems.
 
@@ -63,4 +63,3 @@ As a **Machine Learning Engineer Intern**, I contributed to several impactful pr
 - 💼 **LinkedIn**: [View My Profile](https://linkedin.com/in/teetawat-bussabarati)  
 
 Feel free to reach out if you’re interested in **collaborations, tech innovations, or creative projects**. Let’s build something amazing together! 🚀  
-
