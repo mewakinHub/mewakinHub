@@ -1,8 +1,16 @@
--# 👋 Hi there! Welcome to my GitHub!  🤓👆  
-
-![Profile Banner](assets/profile1.jpg)
-
-I’m **Teetawat (Mew) Bussabarati**, a creative technologist and aspiring **Cloud Engineer** with expertise in **Machine Learning Engineering (MLE/MLOps)**, **AR/VR**, and **Automation**. I’m passionate about blending **cutting-edge technology** with **innovative solutions** to create impactful and scalable systems.
+<div style="display: flex; align-items: center;">
+  <div>
+    <img src="assets/profile1.jpg" alt="Profile Image" style="border-radius: 50%; width: 150px; margin-right: 20px;">
+  </div>
+  <div>
+    <h1>👋 Hi there! Welcome to my GitHub! 🤓👆</h1>
+    <p>
+      I’m <b>Teetawat (Mew) Bussabarati</b>, a creative technologist and aspiring <b>Cloud Engineer</b> with expertise in 
+      <b>Machine Learning Engineering (MLE/MLOps)</b>, <b>AR/VR</b>, and <b>Automation</b>. I’m passionate about blending 
+      <b>cutting-edge technology</b> with <b>innovative solutions</b> to create impactful and scalable systems.
+    </p>
+  </div>
+</div>
 
 ---
 
