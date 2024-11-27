@@ -12,11 +12,6 @@
 
 ---
 
-<div align="center">
-  <img src="assets/profile1.jpg" alt="Profile Image" style="border-radius: 50%; width: 150px;">
-  <h1>👋 Hi there! Welcome to my GitHub! 🤓👉</h1>
-</div>
-
 ## 🚀 About Me  
 
 - 🎓 **Final Year Digital Engineering Student** at **Sirindhorn International Institute of Technology (SIIT), Thammasat University**, with a **GPA of 3.53**.  
@@ -70,7 +65,7 @@ As a **Machine Learning Engineer Intern**, I contributed to several impactful pr
 ## 📌 Let’s Connect!  
 
 - 🌐 **Portfolio**: [GitHub Profile](https://github.com/mewakinHub)  
-- 💬 **Email**: [teetawat.b@example.com](mailto:teetawat.b@example.com)  
+- 💬 **Email**: mewakin27@gmail.com  
 - 💼 **LinkedIn**: [View My Profile](https://linkedin.com/in/teetawat-bussabarati)  
 
 Feel free to reach out if you’re interested in **collaborations, tech innovations, or creative projects**. Let’s build something amazing together! 🚀  
