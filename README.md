@@ -78,8 +78,8 @@ As a **Machine Learning Engineer Intern**, I delivered several impactful contrib
 
 ## 📌 Let’s Connect!  
 
-- 🌐 **Portfolio**: [GitHub Profile](https://github.com/mewakinHub)  
+- 🌐 **Portfolio**: https://github.com/mewakinHub
 - 💬 **Email**: mewakin27@gmail.com  
-- 💼 **LinkedIn**: [View My Profile](https://linkedin.com/in/teetawat-bussabarati)  
+- 💼 **LinkedIn**: www.linkedin.com/in/mewakin
 
 Feel free to reach out if you’re interested in **collaborations, tech innovations, or creative projects**. Let’s build something amazing together! 🚀  
