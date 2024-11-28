@@ -14,32 +14,35 @@
 
 ## 🚀 About Me  
 
-- 🎓 **Final Year Digital Engineering Student** at **Sirindhorn International Institute of Technology (SIIT), Thammasat University**, with a **GPA of 3.53**.  
-- 💼 **Completed Internship** as a **Machine Learning Engineer** at **Axons, CPF**, focusing on **MLOps**, **Computer Vision**, and **CI/CD pipelines**.  
-- 🌍 **Upcoming Exchange Program**: Excited to study **Software Architecture and AR/VR** at **Northumbria University, UK**, where I’ll explore immersive technologies and system design.  
-- 🎨 **Creative Technologist**: Building side projects in **AI**, **IoT**, and **digital art** with a goal to merge tech, creativity, and fun.
+- 🎓 **Final Year Digital Engineering Student** at **Sirindhorn International Institute of Technology (SIIT), Thammasat University**, with a strong academic track record (**GPA: 3.53**) and expertise in **AWS serverless architecture**, **machine learning deployment**, and **system optimization**.  
+- 💼 **Completed Internship** as a **Machine Learning Engineer** at **Axons (CPF)**, focusing on:
+  - **MLOps and Design Patterns** for scalable data science workflows.
+  - **Computer Vision Deployment** on edge devices with real-world optimizations.
+  - **CI/CD Pipelines** using **Azure DevOps** and **GCP integration**.  
+- 🌍 **Upcoming Exchange Program** at **Northumbria University, UK** to specialize in **Software Architecture** and **AR/VR**, exploring immersive technologies and systems integration.  
+- 🎨 **Creative Technologist**: Passionate about blending **AI**, **IoT**, and **digital art** in innovative projects that merge technology and creativity.
 
 ---
 
 ## 💡 What I’ve Done  
 
 ### 🎓 **Academic Projects**  
-- **AWS Cloud Foot Traffic Detection System**  
-  - Built a **serverless, scalable system** for real-time foot traffic detection, leveraging **AWS Lambda, ECS Fargate**, and **RDS**.
-  - Integrated a **real-time dashboard** to deliver insights for **retailers** and **event organizers**.
+- **Serverless Foot Traffic Detection System**  
+  - Designed and deployed a **real-time analytics system** for foot traffic detection using **AWS Lambda**, **ECS Fargate**, and **RDS**.  
+  - Developed a user-friendly dashboard to provide actionable insights for retailers and event organizers.  
   - [Explore the project on GitHub](https://github.com/mewakinHub/Cloud-Foot-Traffic.git).
 
-- **Database Image Retrieval Optimization**  
-  - Developed a **high-speed image retrieval system** using **Redis** and **Sharp compression** to optimize query performance.
+- **Optimized Image Retrieval System**  
+  - Built a **high-speed image retrieval pipeline** using **Redis caching** and **Sharp image compression**, achieving significant performance improvements.
 
 ### 💼 **Internship at Axons (May 2024 - September 2024)**  
-As a **Machine Learning Engineer Intern**, I contributed to several impactful projects:  
-- **MLOps & Design Patterns**:  
-  Designed a **SOLID model training pipeline** and integrated **Dependency Injection frameworks** with an **Adapter Pattern**.  
-- **Computer Vision (Edge Devices)**:  
-  Built and deployed a **real-time detection system** optimized for edge devices with seamless user interactions.  
-- **CI/CD Pipelines**:  
-  Automated workflows using **Azure DevOps**, applying **SOLID principles** for maintainable and modular pipelines.
+As a **Machine Learning Engineer Intern**, I delivered several impactful contributions:  
+- **MLOps & Scalable Design**:  
+  - Designed a **SOLID-compliant model training pipeline** and integrated modular **Dependency Injection frameworks** with an **Adapter Pattern** for flexibility and maintainability.  
+- **Computer Vision on Edge Devices**:  
+  - Deployed a **real-time object detection system** on edge devices, solving real-world challenges such as **network instability**, **cache bloating**, and **hardware-specific optimization**.  
+- **CI/CD Automation**:  
+  - Implemented **Azure DevOps pipelines** to streamline model deployment workflows, integrating with **Google Cloud Platform** for seamless operations.
 
 ---
 
