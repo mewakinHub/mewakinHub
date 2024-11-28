@@ -29,18 +29,29 @@
 ### 🎓 **Academic Projects**  
 - **Serverless Foot Traffic Detection System**  
   - Designed and deployed a **real-time analytics system** for foot traffic detection using **AWS Lambda**, **ECS Fargate**, and **RDS**.  
-  - Developed a user-friendly dashboard to provide actionable insights for retailers and event organizers.  
+  - Built automated workflows(AD-HOC/API Gateway & Cron-job/EventBridge) and pipelines(Jenkins as dedicated EC2) for efficient processing and delivery of real-time insights in dynamic environments. 
   - [Explore the project on GitHub](https://github.com/mewakinHub/Cloud-Foot-Traffic.git).
 
 - **Optimized Image Retrieval System**  
-  - Built a **high-speed image retrieval pipeline** using **Redis caching** and **Sharp image compression**, achieving significant performance improvements.
+  - Built a **high-speed image retrieval pipeline** using **Redis caching** and **our Sharp image compression algorithm based on image metadata**, achieving significant performance improvements.
+  - https://www.linkedin.com/in/mewakin/details/projects/
+
+- **Greedy Garden Game Development Project As Design Pattern Lead**
+  - **Performance Optimization**:
+    - Implemented **Singleton Pattern** to reuse sprite sheets across the program lifecycle, minimizing redundant loads and boosting efficiency.
+    - Used **Dependency Injection** to share objects across classes, ensuring consistent state management and streamlined gameplay logic transitions with a **state machine**.
+  - **Scalable Architecture**:
+    - Designed the system with **SOLID principles**, making the codebase highly maintainable and efficient for future updates.
+  The game was deployed on **Itch.io** for **Windows and Linux** with strategic, replayable mechanics for competitive play:  
+  [Play Greedy Garden on Itch.io](https://tewtor.itch.io/greedy-gardens).
 
 ### 💼 **Internship at Axons (May 2024 - September 2024)**  
 As a **Machine Learning Engineer Intern**, I delivered several impactful contributions:  
 - **MLOps & Scalable Design**:  
   - Designed a **SOLID-compliant model training pipeline** and integrated modular **Dependency Injection frameworks** with an **Adapter Pattern** for flexibility and maintainability.  
 - **Computer Vision on Edge Devices**:  
-  - Deployed a **real-time object detection system** on edge devices, solving real-world challenges such as **network instability**, **cache bloating**, and **hardware-specific optimization**.  
+  - Deployed a **real-time object detection system** on edge devices, solving real-world challenges such as **network instability**, **cache bloating**, and **hardware-specific optimization**.
+  - Designed systems to handle unpredictable real-world behaviors, such as dynamic object motion on conveyor belts, reverse movements, speed variations, and physical obstructions.
 - **CI/CD Automation**:  
   - Implemented **Azure DevOps pipelines** to streamline model deployment workflows, integrating with **Google Cloud Platform** for seamless operations.
 
